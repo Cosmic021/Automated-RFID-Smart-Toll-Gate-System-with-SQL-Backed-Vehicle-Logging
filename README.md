@@ -8,7 +8,7 @@ Vehicles are identified using RFID cards, toll charges are deducted automaticall
 
 ## 📹 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/2pIF3sLt6po)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/79Zq9WFfDxI)
 
 ---
 
