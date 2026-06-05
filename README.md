@@ -339,10 +339,10 @@ Python checks MySQL database
 
 ## 👤 Author
 
-**Mayank Jain**  
+**Ayush kumar singh**  
 IoT, Robotics and Automation Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MayankJain-22)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Cosmic021)
 
 ---
 
